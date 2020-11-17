@@ -1,0 +1,10 @@
+const chalkAnimation = require('chalk-animation');
+chalkAnimation.rainbow('Brendon, let me show you something, all right?');
+log(chalk.red('Maybe this will give you a little incentive. Look at my arm right there. '));
+log(chalk.green('See that? I got that when I was eighteen years old. Ill tell you something.'));
+log(chalk.blue('I regret it. Cause this tattoo dont come off. I have a tattoo of a cows head,'));
+log(chalk.orange('because I loved that cheese then. So I get the cow, I go in there, Im a little drunk, and I say,'));
+chalkAnimation.rainbow('“Give me the cow head from that cheese, I love that cheese.” ');
+log(chalk.purple('I have a cow, a cheese cow on my arm, Brendon.'));
+log(chalk.pink('Don’t get a tattoo, thats what Im telling you.'));
+chalkAnimation.radar('Play soccer.');
